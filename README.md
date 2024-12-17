@@ -1,8 +1,8 @@
 ## Hi there 👋
-
-- 🔭 I’m currently working on Database Testing and Data Anaysis 
+My Name is Tewodros Mesay, I am  a QA Engineer and Data Analyst intersted in all things QA and Software Products.
+- 🔭 I’m currently working on Database Testing and Data Anaysis on RAFM System 
 - 🌱 I’m currently learning Unit testing and React App Testing 
-- 👯 I’m looking to collaborate on Visual testing for Storybook - Cheromatic, Selenium and Cypress testing 
+- 👯 I’m looking to collaborate on Visual testing for Storybook - Cheromatic and Cypress testing - Send me Tips to messaythewodros2@gmail.com
 
 
 <!--

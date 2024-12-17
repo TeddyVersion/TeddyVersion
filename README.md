@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on Database Testing and Data Anaysis 
+- 🌱 I’m currently learning Unit testing and React App Testing 
+- 👯 I’m looking to collaborate on Visual testing for Storybook - Cheromatic, Selenium and Cypress testing 
+
+
 <!--
 **TeddyVersion/TeddyVersion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

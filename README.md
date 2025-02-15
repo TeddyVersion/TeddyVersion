@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name Tewodros Mesay
+My name is Tewodros Mesay
 Product & Technical Manager | Expert in Node.js, React, Java & Flutter
 Driving innovation in software product development through technical leadership and strategic vision.
 

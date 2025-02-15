@@ -1,21 +1,22 @@
 ## Hi there 👋
-My Name is Tewodros Mesay, I am  a QA Engineer and Data Analyst intersted in all things QA and Software Products.
-- 🔭 I’m currently working on Database Testing and Data Anaysis on RAFM System 
-- 🌱 I’m currently learning Unit testing and React App Testing 
-- 👯 I’m looking to collaborate on Visual testing for Storybook - Cheromatic and Cypress testing - Send me Tips to messaythewodros2@gmail.com
+My name Tewodros Mesay
+Product & Technical Manager | Expert in Node.js, React, Java & Flutter
+Driving innovation in software product development through technical leadership and strategic vision.
 
+🔭 Leading Cross-Functional Teams: Overseeing end-to-end product lifecycle management, from ideation to deployment, for scalable applications. Spearheading architecture decisions and tech stack optimization (Node.js, React, Java, Flutter).
 
-<!--
-**TeddyVersion/TeddyVersion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Expanding Expertise: Deepening knowledge in cloud-native solutions, microservices, and DevOps practices to enhance product performance and scalability.
 
-Here are some ideas to get you started:
+👯 Collaboration Focus: Partnering with teams to build robust product roadmaps, open-source contributions, and enterprise-grade solutions. Passionate about mentoring engineers and fostering Agile practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Core Technical Stack:
+
+Backend: Node.js, Java (Spring Boot)
+
+Frontend: React, Flutter
+
+Databases: PostgreSQL, MongoDB
+
+Tools: Docker, Kubernetes, AWS/GCP
+
+📫 Let’s Connect: Reach out for product management opportunities, technical consultations, or collaboration ideas at messaythewodros2@gmail.com.

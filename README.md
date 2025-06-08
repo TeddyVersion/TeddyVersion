@@ -1,6 +1,6 @@
 ## Hi there 👋
 My name is Tewodros Mesay
-Product & Technical Expert
+Product & Quality Engineer 
 Driving innovation in software product development through technical leadership and strategic vision.
 
 🔭 Leading Cross-Functional Teams: Overseeing end-to-end product lifecycle management, from ideation to deployment, for scalable applications. Spearheading architecture decisions and tech stack optimization (Node.js, React, Java, Flutter).
